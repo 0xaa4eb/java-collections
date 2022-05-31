@@ -1,4 +1,6 @@
-# Non-thread safe collections
+Various fancy collections
+
+## Non-thread safe collections
 
 ### Trees and maps
 
@@ -12,11 +14,11 @@ TBD
 
 TBD
 
-# Thread-safe collections
+## Thread-safe collections
 
 TBD
 
-# Persistent collections
+## Persistent collections
 
 | Name                          | Paper | Algorithmic complexity | Implementation                                                                                                                 | Notes                                                                                                                                                                                                                                                   |
 |-------------------------------|-------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
